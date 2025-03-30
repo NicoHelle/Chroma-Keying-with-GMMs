@@ -98,21 +98,6 @@ python main.py
 
 Experimental results demonstrate significantly improved segmentation precision and robustness compared to traditional methods. Performance gains were achieved through GPU acceleration.
 
-*(Detailed evaluation is provided in the [full thesis document](Masterarbeit_NicoHelle_4022929-komprimiert.pdf).)*
-
----
-
-## References
-
-For technical details, see the comprehensive research in:
-- **[Chroma Keying mithilfe von Gaussian Mixture Models (Master Thesis, Nico Helle)](Masterarbeit_NicoHelle_4022929-komprimiert.pdf)**
-
----
-
-## License
-
-This project is available under the MIT License.
-
 ---
 
 ## Author
